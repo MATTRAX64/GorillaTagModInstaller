@@ -58,7 +58,3 @@ Ces liens sont des points de départ : vérifie la compatibilité de chaque mod 
 - **Mod qui ne fonctionne pas :** consulte les instructions de son créateur. La réparation de BepInEx ne répare pas les plugins ni les fichiers du jeu.
 
 Pour signaler un bug ou proposer une amélioration, [ouvre une issue](https://github.com/MATTRAX64/GorillaTagModInstaller/issues).
-
-## 👤 Auteur
-
-Créé par [MATTRAX64](https://github.com/MATTRAX64).
